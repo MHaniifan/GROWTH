@@ -6,8 +6,8 @@ Pompa Air akan menyala setiap jadwal penyiraman yang sudah ditentukan. Dimana ja
 
 Dengan menggunakan UART, seluruh data dari sensor-sensor ini dikirimkan ke Komputer. Memungkinkan petani untuk memantau penggunaan energi dan kondisi lingkungan secara langsung dari Komputer. Sistem ini dirancang untuk meningkatkan efisiensi energi, hasil produksi, serta dapat mengurangi kerugian dengan mengotomatiskan berbagai fungsi dan memberikan kendali yang lebih fleksibel.
 
-## **Supported By:**  
-  **Dosen Pengampu:** Akhmad Hendriawan, S.T., M.T.  *(NIP: 197501272002121003)*  
-  **Mata Kuliah:** Mikrokontroler
-  **Program Studi:** Sarjana Terapan Teknik Elektronika  
-  **Politeknik Elektronika Negeri Surabaya** 
+## Supported By :
+>- Dosen Pengampu : Akhmad Hendriawan ST., MT. (NIP.197501272002121003)
+>- Mata kuliah : Mikrokontroler
+>- Program Studi : Sarjana Terapan Teknik Elektronika
+>- Politeknik Elektronika Negeri Surabaya<br> 
