@@ -11,3 +11,13 @@ Dengan menggunakan UART, seluruh data dari sensor-sensor ini dikirimkan ke Kompu
 >- Mata kuliah : Mikrokontroler
 >- Program Studi : Sarjana Terapan Teknik Elektronika
 >- Politeknik Elektronika Negeri Surabaya<br> 
+
+## Team Member :
+|      NRP      |       Nama      |    Jobdesk    |   Akun |
+| :-----------:|:----------------:| :------------:| :-----:|
+| 2123600007    | Muhammad Haniifan  | Project Manager       | [Radit](https://github.com/Raditya-G)
+| 2123600011    | Monalisa Br. Sidauruk         |   Hardware Specialist | [Ratu](https://github.com/nataratungga)
+| 2123600015    | Fakhrihans Ardiyanto         |    UI/UX Designer      | [Bisma](https://github.com/Bismaap)
+| 2123600027    | Darda Drestanala                | 3D Designer | [Rohmat](https://github.com/NurRohmatHidayat)
+| 2123600029    | Aurora Putri Salsabillah Rofii               | PCB Designer     | [Ezar](https://github.com/EzarPrasetya)
+| 2124640016    | Arif Ramadhan               | Programmer     |[Ziyad](https://github.com/Yadnur)
