@@ -1,5 +1,7 @@
 ## GROWTH: Greenhouse Remote Operations With Temperature & Humidity
 
+![Logo GROWTH](https://github.com/MHaniifan/GROWTH/blob/main/Assets/Banner%20GROWTH.jpg)
+
 Proyek ini bertujuan untuk mengembangkan sistem automasi cerdas berbasis Mikrokontroler AVR untuk Smart Farming, menggunakan komponen utama seperti Arduino Mega, sensor YL-69 dan DHT-11, serta pompa air dan kipas. Arduino Mega bertindak sebagai mikrokontroler utama yang mengontrol komunikasi antar sensor dan aktuator, memungkinkan pemantauan dan pengontrolan secara real-time. Sistem ini menggunakan Timer pada AVR untuk menjaga sinkronisasi waktu, dan Interrupt untuk menyalakan Pompa Air ketika kelembaban dibawah batas.
 
 Pompa Air akan menyala setiap jadwal penyiraman yang sudah ditentukan. Dimana jadwal penyiraman dan lama pompa menyala, diatur pada GUI pada Komputer yang terhubung ke Mikrokontroler menggunakan komunikasi UART. Untuk Kipas akan menyala setiap suhu telah melewati batas yang ditentukan, dimana batas suhunya dapat diatur pada GUI.
