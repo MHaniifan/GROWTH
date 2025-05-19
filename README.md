@@ -27,6 +27,11 @@ Dengan menggunakan UART, seluruh data dari sensor-sensor ini dikirimkan ke Kompu
 ## Daftar Isi
 - [Deskripsi Project](https://github.com/MHaniifan/GROWTH#growth-greenhouse-remote-operations-with-temperaturehumidity)
 - [Team Member](https://github.com/MHaniifan/GROWTH#team-member-)
+- [Keunggulan](https://github.com/MHaniifan/GROWTH#keunggulan)
+- [Desain Hardware](https://github.com/MHaniifan/GROWTH#desain-hardware)
+- [Printed Circuit Board](https://github.com/MHaniifan/GROWTH#printed-circuit-board-pcb)
+- [Program](https://github.com/MHaniifan/GROWTH#program)
+- [Tampilan UI/UX](https://github.com/MHaniifan/GROWTH#tampilan-uiux)
 
 ## Keunggulan
 - **Pemantauan Real-Time**: Mengukur perubahan kelembaban dan suhu dengan sensor secara terus - menerus.
