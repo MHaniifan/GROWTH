@@ -24,12 +24,20 @@ Dengan menggunakan UART, seluruh data dari sensor-sensor ini dikirimkan ke Kompu
 | 2123600029    | Aurora Putri Salsabillah Rofii               | PCB Designer     | [Aurora](https://github.com/aurorapsr)
 | 2124640016    | Arif Ramadhan               | Programmer     |[Arif](https://github.com/arif-rmdhn)
 
-##Daftar Isi
+## Daftar Isi
 - [Deskripsi Project](https://github.com/MHaniifan/GROWTH#growth-greenhouse-remote-operations-with-temperaturehumidity)
 - [Team Member](https://github.com/MHaniifan/GROWTH#team-member-)
 
-##Keunggulan
+## Keunggulan
 - **Pemantauan Real-Time**: Mengukur perubahan kelembaban dan suhu dengan sensor secara terus - menerus.
 - **Efisiensi dan Penghematan Biaya**: Mengurangi penggunaan listrik karena pompa dan kipas hanya dinyalakan ketika melewati batas normal tanaman.
 - **Kendali Otomatis**: Menggunakan sensor untuk mengamati perubahan kondisi dan relay untuk mengaktifkan pompa dan kipas sehingga tidak dikontrol oleh manusia.
 - **Meningkatkan Hasil Panen**: Mencegah tanaman kekeringan dan kepanasan sehingga dapat meningkatkan kondisi tanaman.
+
+## Desain Hardware
+
+## Printed Circuit Board (PCB)
+
+## Program
+
+## Tampilan UI/UX
