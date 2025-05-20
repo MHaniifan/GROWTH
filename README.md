@@ -40,10 +40,21 @@ Dengan menggunakan UART, seluruh data dari sensor-sensor ini dikirimkan ke Kompu
 - **Meningkatkan Hasil Panen**: Mencegah tanaman kekeringan dan kepanasan sehingga dapat meningkatkan kondisi tanaman.
 
 ## Desain Hardware
+Blok Diagram
+
+Wiring Diagram
 
 ## Printed Circuit Board (PCB)
+Skematik PCB
+
+Desain PCB
+
+Tampilan 3D PCB
+
+Pemasangan PCB pada Arduino Mega
 
 ## Program
+Flowchart
 
 ## Tampilan UI/UX
 
