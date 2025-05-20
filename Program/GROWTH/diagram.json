@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "author": "AING MAUNG!",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-arduino-mega", "id": "mega", "top": 29.4, "left": -32.4, "attrs": {} },
+    {
+      "type": "wokwi-slide-potentiometer",
+      "id": "pot1",
+      "top": 72.4,
+      "left": 301.6,
+      "rotate": 270,
+      "attrs": { "travelLength": "30" }
+    },
+    { "type": "wokwi-led", "id": "led1", "top": -51.6, "left": 71, "attrs": { "color": "red" } }
+  ],
+  "connections": [
+    [ "pot1:SIG", "mega:A0", "gold", [ "v9.6", "h-212" ] ],
+    [ "mega:5V", "pot1:VCC", "red", [ "v35.7", "h261.5" ] ],
+    [ "pot1:GND", "mega:GND.1", "black", [ "v-14.8", "h-288" ] ],
+    [ "mega:GND.1", "led1:C", "black", [ "v0" ] ],
+    [ "mega:12", "led1:A", "green", [ "v-38.4", "h-9.6" ] ]
+  ],
+  "dependencies": {}
+}
