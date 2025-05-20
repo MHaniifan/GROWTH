@@ -46,3 +46,9 @@ Dengan menggunakan UART, seluruh data dari sensor-sensor ini dikirimkan ke Kompu
 ## Program
 
 ## Tampilan UI/UX
+
+## Pengembangan Kedepannya
+- Penambahan IoT untuk Pemantauan Jarak Jauh
+- Penambahan RTC untuk Penjadwalan Penyiraman
+- Penambahan Desain Casing yang Tahan Air
+- Penambahan Baterai untuk Supply Darurat
