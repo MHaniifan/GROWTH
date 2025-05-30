@@ -12,7 +12,11 @@ class _allSensor {
                 select: {
                     soil_hum: true,
                     dht_hum: true,
-                    dht_temp: true
+                    dht_temp: true,
+                    fan_stat: true,
+                    pump_stat: true,
+                    fan_hour: true,
+                    pump_hour: true
                 }
             })
 
@@ -37,7 +41,11 @@ class _allSensor {
                 id: Joi.number().required(),
                 soil_hum: Joi.number().required(),
                 dht_hum: Joi.number().required(),
-                dht_temp: Joi.number().required()
+                dht_temp: Joi.number().required(),
+                fan_stat: Joi.number().required(),
+                pump_stat: Joi.number().required(),
+                fan_hour: Joi.number().required(),
+                pump_hour: Joi.number().required()
             }).options({ abortEarly: false });
 
             validate(schema, body);
@@ -48,7 +56,7 @@ class _allSensor {
                 },
                 select: {
                     id: true
-                } 
+                }
             })
 
             if (!sen) {
@@ -66,7 +74,11 @@ class _allSensor {
                 data: {
                     soil_hum: body.soil_hum,
                     dht_hum: body.dht_hum,
-                    dht_temp: body.dht_temp
+                    dht_temp: body.dht_temp,
+                    fan_stat: body.fan_stat,
+                    pump_stat: body.pump_stat,
+                    fan_hour: body.fan_hour,
+                    pump_hour: body.pump_hour
                 }
             })
             return {
@@ -75,7 +87,7 @@ class _allSensor {
             };
 
         } catch (error) {
-            console.error('sendData dataCurrentDht module Error: ', error);
+            console.error('sendData All Data module Error: ', error);
             return {
                 status: false,
                 error,

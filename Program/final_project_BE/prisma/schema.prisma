@@ -31,4 +31,8 @@ model all_sensor {
   soil_hum Float
   dht_hum  Float
   dht_temp Float
+  fan_stat Int
+  pump_stat Int
+  fan_hour  Float
+  pump_hour  Float
 }
