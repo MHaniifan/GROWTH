@@ -47,17 +47,16 @@ Blok Diagram
 
 Wiring Diagram
 ![Wiring GROWTH](https://github.com/MHaniifan/GROWTH/blob/main/Hardware/Wiring%20GROWTH.png)
+
 ## Printed Circuit Board (PCB)
 Skematik PCB
 
 Desain PCB
 
-Tampilan 3D PCB
+## Desain 3D
 
-Pemasangan PCB pada Arduino Mega
 
-## Program
-Flowchart
+## Flowchart Program
 
 ## Tampilan UI/UX
 ![Desain UI GROWTH](https://github.com/MHaniifan/GROWTH/blob/main/UI%20UX%20Design/Desain%20UI%20GROWTH.jpg)
