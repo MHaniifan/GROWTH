@@ -127,7 +127,7 @@ int main(void)
       lastSendTime = millis_get();
 
       // Logika kontrol sederhana
-      if (kelembaban < 20)
+      if (kelembaban <= 30)
       {
         PORTB |= (1 << PB6); // Nyalakan LED/Pompa jika kelembaban rendah
         pump = 1;
@@ -138,7 +138,7 @@ int main(void)
         pump = 0;
       }
 
-      if (temperature > 30)
+      if (temperature >= 31)
       {
         PORTB |= (1 << PB5); // Nyalakan kipas/pendingin jika panas
         fan = 1;
