@@ -57,7 +57,7 @@ Desain PCB
 
 
 ## Flowchart Program
-<img src="https://github.com/MHaniifan/GROWTH/blob/main/Assets/Flowchart%20GROWTH.png" alt="Flowchart GROWTH" width="400">
+<img src="https://github.com/MHaniifan/GROWTH/blob/main/Assets/Flowchart%20GROWTH.png" alt="Flowchart GROWTH" width="300">
 
 ## Tampilan UI/UX
 ![Desain UI GROWTH](https://github.com/MHaniifan/GROWTH/blob/main/UI%20UX%20Design/Desain%20UI%20GROWTH.jpg)
