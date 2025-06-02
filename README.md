@@ -24,6 +24,8 @@ Dengan menggunakan UART, seluruh data dari sensor-sensor ini dikirimkan ke Kompu
 | 2123600029    | Aurora Putri Salsabillah Rofii               | PCB Designer     | [Aurora](https://github.com/aurorapsr)
 | 2124640016    | Arif Ramadhan               | Programmer     |[Arif](https://github.com/arif-rmdhn)
 
+![Flyer GROWTH](https://github.com/MHaniifan/GROWTH/blob/main/Assets/Flyer%20GROWTH.png)
+
 ## Daftar Isi
 - [Deskripsi Project](https://github.com/MHaniifan/GROWTH#growth-greenhouse-remote-operations-with-temperaturehumidity)
 - [Team Member](https://github.com/MHaniifan/GROWTH#team-member-)
