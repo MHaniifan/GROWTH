@@ -58,6 +58,7 @@ Pemasangan PCB pada Arduino Mega
 Flowchart
 
 ## Tampilan UI/UX
+![Desain UI GROWTH](https://github.com/MHaniifan/GROWTH/blob/main/UI%20UX%20Design/Desain%20UI%20GROWTH.jpg)
 
 ## Pengembangan Kedepannya
 - Penambahan IoT untuk Pemantauan Jarak Jauh
