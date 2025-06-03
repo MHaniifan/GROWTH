@@ -61,7 +61,7 @@ Skematik PCB
 Desain PCB
 
 ## Desain 3D
-
+![Desain 3D GROWTH](https://github.com/MHaniifan/GROWTH/blob/main/3D%20Design/Desain%203D%20GROWTH.png)
 
 ## Flowchart Program
 <img src="https://github.com/MHaniifan/GROWTH/blob/main/Assets/Flowchart%20GROWTH.png" alt="Flowchart GROWTH" width="300">
