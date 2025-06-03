@@ -57,6 +57,7 @@ Wiring Diagram
 
 ## Printed Circuit Board (PCB)
 Skematik PCB
+![Skematik PCB GROWTH](https://github.com/MHaniifan/GROWTH/blob/main/Hardware/Skematik%20PCB%20GROWTH.jpg)
 
 Desain PCB
 
