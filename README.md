@@ -60,6 +60,7 @@ Skematik PCB
 ![Skematik PCB GROWTH](https://github.com/MHaniifan/GROWTH/blob/main/Hardware/Skematik%20PCB%20GROWTH.jpg)
 
 Desain PCB
+![Desain PCB GROWTH](https://github.com/MHaniifan/GROWTH/blob/main/Hardware/Desain%20PCB%20GROWTH.png)
 
 ## Desain 3D
 ![Desain 3D GROWTH](https://github.com/MHaniifan/GROWTH/blob/main/3D%20Design/Desain%203D%20GROWTH.png)
